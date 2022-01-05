@@ -2,8 +2,7 @@
 
 ## Overview of Project
 
-### Purp![Capture](https://user-images.githubusercontent.com/95326926/148139708-56feb5a2-82cc-4235-9e0b-493e238914e9.PNG)
-ose
+### Purpose
 
 ## Analysis and Challenges
 
