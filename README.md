@@ -9,7 +9,7 @@ Louise had a successful kickstarter campaign with her play "Fever". Now, she wan
 In order for Louise to replicate or even do better in future projects, we will use data analysis and visualization to show Louise the outcomes of other campaigns based on their launch dates and funding goals to use in her comparison. 
 
 
-## II. [Analysis and Results](Kickstarter_Challenge.xlsx)
+## II. [Analysis and Results](Kickstarter_Challenge.rar)
 
 ### A. Outcomes Based on Launch Date
 ![](Resources/Theater_Outcomes_Vs_Launch.PNG)
