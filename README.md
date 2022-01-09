@@ -21,7 +21,13 @@ The figure above shows the outcomes of kickstarter campaigns in the Theater cate
 
 The figure above shows the outcomes of kickstarter campaigns in the Plays subcategory versus their target goals. This subcategory has no canceled campaigns and will not show up in the graph. As expected, the lowest target value (<1000) has the highest success rate. The high success rate is only maintained until (1,000 to 4,999) as you get around 50% chances for success afterwards, which is not ideal. Unexpectedly, the trend for having low success rate as the goal goes higher is broken at targets (35,000 to 39,999) and (40,000 to 44,999). Even though it shows good success values, the low number of data points (<1% of total plays) on these 2 goal targets makes it inconclusive to label as a good goal to set if you want to target a large amount. This is one of the limitations of using percentage in the visualization. **Therefore, with the best value to success rate balance, the sweet spot for a goal is in the (1,000 to 4,999) value.**
 
-### C. Challenges
+### C. Additional Analysis
+In addition to launch dates and target goals, determining how long the campaign should be can help the success of the project.
+![](Resources/Outcomes_Vs_Deadline.PNG)
+
+Contrary to the expected, having a longer campaign does not guarantee success. The most common and also most successful deadlines are set at 5th week after launching.
+
+### D. Challenges
 The tasks were simple and straightforward, but possible challenges can be encountered in making the table for "Play Outcomes based on Goal". The COUNTIFS formulas you had to type were long and and it was easy to make a typo on the 5-digit numbers. This can be overcome by going slowly but surely on typing the numbers, and typing it the least number of times possible by using the drag and formula autofill function strategically.
 
 ## III. Limitations of the Data
