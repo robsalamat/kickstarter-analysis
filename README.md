@@ -25,7 +25,7 @@ The figure above shows the outcomes of kickstarter campaigns in the Plays subcat
 In addition to launch dates and target goals, determining how long the campaign should be can help the success of the project.
 ![](Resources/Outcomes_Vs_Deadline.PNG)
 
-Contrary to the expected, having a longer campaign does not guarantee success. The most common and also most successful deadlines are set at 5th week after launching.
+Contrary to the expected, having a longer campaign does not guarantee success. The most common and also most successful deadlines are set at the 5th week after launching.
 
 ### D. Challenges
 The tasks were simple and straightforward, but possible challenges can be encountered in making the table for "Play Outcomes based on Goal". The COUNTIFS formulas you had to type were long and and it was easy to make a typo on the 5-digit numbers. This can be overcome by going slowly but surely on typing the numbers, and typing it the least number of times possible by using the drag and formula autofill function strategically.
@@ -33,5 +33,5 @@ The tasks were simple and straightforward, but possible challenges can be encoun
 ## III. Limitations of the Data
 - **The number of data points are not enough.** Segmenting the data of a subcategory will sometimes just give you 1 or 2 data points in 1 segment (e.g. Play Outcomes based on Goal)
 - **The data is outdated.** If Louise will use our analyses for future projects, something more recent than the (2009 to 2017) figures will be necessary
-- **About 75% of the data comes from the USA.** Plays or musicals, especially those that need kickstarters are a very local event. Louise wants to someday start a campaign for a Great Britain event and analyses made should be more focused on local data.
+- **About 75% of the data comes from the USA.** Plays or musicals, especially those that need kickstarters are very local events. Louise wants to someday start a campaign for a Great Britain event and analyses made should be more focused on local data.
 - **Only for kickstarter.** The title is a dead give-away but it should still be said that this study is limited to Kickstarter and does not include all other crowdfunding apps.
