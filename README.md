@@ -35,3 +35,5 @@ The tasks were simple and straightforward, but possible challenges can be encoun
 - **The data is outdated.** If Louise will use our analyses for future projects, something more recent than the (2009 to 2017) figures will be necessary
 - **About 75% of the data comes from the USA.** Plays or musicals, especially those that need kickstarters are very local events. Louise wants to someday start a campaign for a Great Britain event and analyses made should be more focused on local data.
 - **Only for kickstarter.** The title is a dead give-away but it should still be said that this study is limited to Kickstarter and does not include all other crowdfunding apps.
+
+Test1
